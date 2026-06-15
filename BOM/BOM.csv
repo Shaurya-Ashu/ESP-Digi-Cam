@@ -1,0 +1,27 @@
+Item No.,Item,Description,Quantity,Price per unit ($),Total price ($),Link
+1,100nF,"C0603 | Designator: C1,C2,C3,C7",4,2.5730,10.2920,
+2,10uF,C0603 | Designator: C4,1,2.5730,2.5730,
+3,22uf,"C0603 | Designator: C5,C6",2,2.5730,5.1460,
+4,1uH,IND-SMD_L4.2-W4.2_MCW-0420 | Designator: L1,1,0.0550,0.0550,https://www.lcsc.com/search?q=C609522
+5,1.8inch LCD Module,LCD-TH_L56.5-W34.0_1-8INCH-LCD-MODULE | Designator: LCD1,1,1.0063,1.0063,https://www.lcsc.com/search?q=C359940
+6,4K7,R0603 | Designator: R1,1,2.5730,2.5730,
+7,10K,"R0603 | Designator: R2,R11,R12,R13",4,2.5730,10.2920,
+8,270,"R0603 | Designator: R3,R4,R9",3,2.5730,7.7190,
+9,5K,"R0603 | Designator: R5,R6",2,2.5730,5.1460,
+10,732K,R0603 | Designator: R7,1,2.5730,2.5730,
+11,100K,R0603 | Designator: R8,1,2.5730,2.5730,
+12,2k,R0603 | Designator: R10,1,2.5730,2.5730,
+13,YLED0603B,"LED0603-FD | Designator: RX,RX1",2,0.0010,0.0020,https://www.lcsc.com/search?q=C19171394
+14,POWER,SW-SMD_XKB5858-W-F-75 | Designator: SW1,1,0.0452,0.0452,https://www.lcsc.com/search?q=C780037
+15,1TS002G-1400-3500-CT,KEY-SMD_1TS002G | Designator: SW2,1,0.0072,0.0072,https://www.lcsc.com/search?q=C319373
+16,YLED0603R,LED0603-FD | Designator: TX,1,0.0010,0.0010,https://www.lcsc.com/search?q=C19171390
+17,ESP32-CAM,COMM-TH_16P-L40.0-W27.0-P2.54_ESP32-CAM | Designator: U1,1,1.1280,1.1280,https://www.lcsc.com/search?q=C277946
+18,FT232RL,SSOP-28_L10.2-W5.3-P0.65-LS7.8-BL | Designator: U2,1,1.1708,1.1708,https://www.lcsc.com/search?q=C490691
+19,TPS61023DRLR,SOT-563_L1.6-W1.2-P0.50-LS1.6-BR | Designator: U3,1,0.0397,0.0397,https://www.lcsc.com/search?q=C919459
+20,JST Right-Angle Connector - SMD 2-Pin (Black),CONN-SMD_JST-PH-2-SMT-RA | Designator: U4,1,0.0059,0.0059,https://www.lcsc.com/search?q=C9900141337
+21,MCP73831T-2ACI/OT-HXY,SOT-23-5_L2.9-W1.6-P0.95-LS2.8-TL | Designator: U5,1,0.1005,0.1005,https://www.lcsc.com/search?q=C42432883
+22,GT-USB-7100A,USB-C-SMD_GT-USB-7100A | Designator: USB1,1,0.0728,0.0728,https://www.lcsc.com/search?q=C7469646
+23,PCB Fabrication,"Custom PCB (2-layer), 5pcs",5,2.0000,10.0000,
+24,Enclosure/Case,Custom case for board,1,5.0000,5.0000,
+
+,,,,,GRAND TOTAL ($),70.0944
