@@ -2,9 +2,9 @@ Item No.,Item,Description,Quantity,Price per unit ($),Total price ($),Link
 1,100nF,"C0603 ",4,2.5730,10.2920,https://www.lcsc.com/product-detail/C14663.html?spm=wm.fly.bg.0.xh&lcsc_vid=EQILUgICRVRYAlZSQAUNAgICRAMNVVQARAMLAgVRQwUxVlNeRlRYVlRVQlRcVzsOAxUeFF5JWBYZEEoBGA4JCwFIFA4DSA%3D%3D
 2,10uF,C0603 ",1,2.5730,2.5730,https://www.lcsc.com/product-detail/C19702.html?spm=wm.fly.bg.5.xh&lcsc_vid=EQILUgICRVRYAlZSQAUNAgICRAMNVVQARAMLAgVRQwUxVlNeRlRYVlRRRVVZUzsOAxUeFF5JWBYZEEoBGA4JCwFIFA4DSA%3D%3D
 3,22uf,"C0603 ",2,2.5730,5.1460,https://www.lcsc.com/product-detail/C109448.html
-4,1uH,IND-SMD_L4.2-W4.2_MCW-0420 ,https://www.lcsc.com/search?q=C609522
-5,1.8inch LCD Module,LCD-TH_L56.5-W34.0_1-8INCH-LCD-MODULE ,https://www.lcsc.com/search?q=C359940
-6,4K7,R0603 ,2.5730,https://www.lcsc.com/product-detail/C2889370.html
+4,1uH,1,	0.0550,	0.0550,IND-SMD_L4.2-W4.2_MCW-0420 ,https://www.lcsc.com/search?q=C609522
+5,1.8inch LCD Module,LCD-TH_L56.5-W34.0_1-8INCH-LCD-MODULE ,1,	1.0063,	1.0063https://www.lcsc.com/search?q=C359940
+6,4K7,R0603 ,1,2.5730,2.5730,https://www.lcsc.com/product-detail/C2889370.html
 7,10K,"R0603 ",4,2.5730,10.2920,https://www.lcsc.com/product-detail/chip-resistor-surface-mount_tyohm-rmc-0603-10k-j-n_C5362358.html
 8,270,"R0603 ",3,2.5730,7.7190,https://www.lcsc.com/product-detail/C351661.html
 9,5K,"R0603 ",2,2.5730,5.1460,https://www.lcsc.com/product-detail/C2889373.html
