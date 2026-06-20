@@ -2,8 +2,6 @@
 #include <SPI.h>
 #include <Adafruit_GFX.h>
 #include <Adafruit_ST7735.h>
-
-
 #define TFT_SCK    14   
 #define TFT_MOSI   13   
 #define TFT_CS     15  
